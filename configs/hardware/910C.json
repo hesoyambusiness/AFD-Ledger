@@ -1,0 +1,16 @@
+{
+  "name": "910C",
+  "gpu": {
+    "mem_bw": 1600000000000,
+    "mem_capacity": 68719476736,
+    "bfloat16_tc_flops": 376000000000000,
+    "int8_tc_flops": 600000000000000,
+    "fp8_tc_flops": 600000000000000
+  },
+  "node": {
+    "num_gpus_per_node": 768,
+    "inter_node_bw": 1e999,
+    "intra_node_bw": 392000000000,
+    "pcie_bw": 392000000000
+  }
+}
